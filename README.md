@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![Walsvid's GitHub stats](https://github-readme-stats.vercel.app/api?username=walsvid&count_private=true&show_icons=true&include_all_commits=true)
+![Walsvid's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=walsvid&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walsvid&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
